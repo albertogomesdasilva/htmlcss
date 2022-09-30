@@ -1,0 +1,33 @@
+body {
+    background-color: brown;
+}
+
+h1, h2 {
+    color: #fff;
+}
+#fig {
+    align-items: center;
+    display: flex;
+    height: 120px;
+    width: 500px;
+    border: #fff solid 1px;
+}
+#quadro {
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    background-color: blue;
+}
+#quadro2 {
+    height: 50%;
+    width: 20%;
+    margin-left: 25px;
+    background-color: aqua;
+}
+#bola {
+    margin-left: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #fff;
+}
